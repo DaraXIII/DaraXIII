@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaraXIII
 - 👀 I’m interested in many things
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Unreal Engine 5
 
 <!---
 DaraXIII/DaraXIII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
